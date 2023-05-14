@@ -55,4 +55,4 @@ public class MainActivity extends AppCompatActivity {
         tv2.setText(str);
 
     }
-}
+} // commit
